@@ -10,24 +10,24 @@ For contributing, [open an issue](https://github.com/Open-Ireland-Network/Learni
 ## Guidelines
 
 - Add one link per Pull Request.
-- Add the link with the followining details: 
+- Add the link with the followining format as _below_  
 
-## Table of Contents
-- [Resource 1](#resource-1)
+### _Table of Contents_
+- [Resource (#resource)
 - [Contribute](#how-to-contribute)
 
 ---
 
-## Resource 1
-### [Title of Resource 1](https://link-to-resource-1.com)
-#### Description
-This is a book/tutorial/course about...
+## _Resource_ 
+### _[Title of Resource](https://link-to-resource.com)_
+#### _Description_
+_This is a book/tutorial/course about..._
 
-#### Context
-This resource was incredibly helpful for understanding X, Y, and Z This resource was excellent for learning A, B, and C.
+#### _Context_
+_This resource was incredibly helpful for understanding X, Y, and Z This resource was excellent for learning A, B, and C._
 
-#### Contributor
-- Recommended by: [Jane Doe](https://github.com/janedoe)
+#### _Contributor_
+- _Recommended by: [Jane Doe](https://github.com/janedoe)_
 
 ---
 

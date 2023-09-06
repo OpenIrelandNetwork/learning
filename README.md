@@ -16,21 +16,13 @@ This project aims to compile a comprehensive collection of learning materials ce
 | :-------------------- | :---------------------- | :-------------------------------- |
 |Adrian O'Sullivan     	|Huawei 		              |Director of Open Source			      |
 |Mihai Todor	       	  |Optum 			              |Principal Software Engineer,		    |
-|Barry McGinley	       	|EPS 			                |Global Senior Systems Engineer		  |
-|Brian Farrell 		      |Securelinx		            |CEO, Founder					              |
-|John Whelan		        |Trinity College Dublin	  |ICT Research Commercialisation Mngt|
-|Anluan Dunne 		      |Red Hat 		              |CEO, Founder					              |
-|Luke Feeney 		        |TerminusX 		            |Co-founder					                |
-|Michelle Kearns 	      |Boots Ireland 		        |Head of IT					                |
 |Fiona Manning 		      |VMware 		              |Open Source Program Manager			  |
-|Pat Mulchrone 		      |Ericsson		              |Head of Product Development			  |
-|Aoife Tierney		      |Trinity College 	        |IP Development Manager				      |
 
  
 ## Quick start
 
 - [Sign up to the mailing list](#mailing-list) to stay up to date
-- Explore our curated![Awesome](https://awesome.re/badge-flat2.svg)list of learning materials centered around open source and InnerSource 
+- Explore our curated list of learning materials centered around open source and InnerSource 
 - Get Involved and add more resources to our Network
 
 
@@ -75,5 +67,5 @@ All written materials are licensed under
 CC0 1.0 Universal [Creative Commons](LICENSE)
 
 ## Awesome list of learning materials centered around open source and InnerSource
-![The Awesome List](https://awesome.re/badge-flat2.svg) [Open Ireland Awesome curated List](Awesomelist.md)
+[Open Ireland Learning Resources curated List](Learning.md)
 

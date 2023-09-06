@@ -1,6 +1,8 @@
 # Contributing
 
-Your contributions are always welcome!
+This repository serves as a comprehensive archive of essential learning materials focused on Open Source Software and best practices, curated by the Open Source community in Ireland. We encourage everyone to contribute resources that have proven beneficial to them, taking an extra step to provide context for its usefulness (e.g., 'This guide significantly enhanced my understanding of X, Y, and Z'). 
+
+Your contributions are warmly welcome, please get involved and add your own.
 
 Anyone can contribute to this list, just make sure you follow the below [guidelines](#guidelines).\
 For contributing, [open an issue](https://github.com/Open-Ireland-Network/Learning1/issues) and/or [create a pull request](https://github.com/Open-Ireland-Network/Learning1/pulls)
@@ -8,7 +10,31 @@ For contributing, [open an issue](https://github.com/Open-Ireland-Network/Learni
 ## Guidelines
 
 - Add one link per Pull Request.
-- Add the link: `- [RESOURCE](LINK) - DESCRIPTION.`
+- Add the link with the followining details: 
+
+## Table of Contents
+- [Resource 1](#resource-1)
+- [Contribute](#how-to-contribute)
+
+---
+
+## Resource 1
+### [Title of Resource 1](https://link-to-resource-1.com)
+#### Description
+This is a book/tutorial/course about...
+
+#### Context
+This resource was incredibly helpful for understanding X, Y, and Z This resource was excellent for learning A, B, and C.
+
+#### Contributor
+- Recommended by: [Jane Doe](https://github.com/janedoe)
+
+---
+
+## How to Contribute
+1. Fork this repository
+2. Add your recommended resources following the above format
+3. Create a pull request
   - End descriptions with a full stop.
   - Descriptions are optional but keep them concise if you add any.
 - Add a section if needed.

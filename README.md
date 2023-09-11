@@ -41,9 +41,10 @@ For contributing, [open an issue](https://github.com/Open-Ireland-Network/Learni
 ## Guidelines
 
 - Add one link per Pull Request.
-- Add the link: `- [RESOURCE](LINK) - DESCRIPTION.`
+- Add the link: `- [RESOURCE](LINK) - DESCRIPTION - CONTEXT - CONTRIBUTOR.`
   - End descriptions with a full stop.
-  - Descriptions are optional but keep them concise if you add any.
+- Use the following format for descriptions.
+- **Description** _This is a book/tutorial/course about..._ _**Context**_ _This resource was incredibly helpful for understanding X, Y, and Z _ _**Contributor**_ _Recommended by: [Jane Doe](https://github.com/janedoe)_ 
 - Add a section if needed.
   - Add the section description.
   - Add the section title to Table of Contents.

@@ -1,7 +1,7 @@
 # Learning Resources for the Ireland OSS Community
 <img src="Images\OIN_logo.png" width="600">
 
-# About the Open Ireland Network
+# About the Open Ireland Network <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-OpenIrelandNetwork-Green">
 
 Open Ireland Network is a network for organizations and individuals on the island of Ireland who want to connect around Open Source Software, Open Hardware, Open Data, Open Research, Open Government and all things open.
 ## About the Learning Resources Project - for open source and InnerSource

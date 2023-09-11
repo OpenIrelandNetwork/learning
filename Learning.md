@@ -16,12 +16,12 @@ This Learning Resources Project repository is maintained by the [Open Ireland Ne
 ## Learning Resources Project Categories
 The "Learning Resources Project" is structured into the following distinct categories, to make it an intuitive user experience for easy navigation and search. This design aids both newcomers to open source and experienced individuals in locating and contributing content and resources.
 
- - [Getting Started with Open Source](#Getting Started with Open Source) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies
- - [Open Source Software](#Open-Source-Software) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies
- - [Open Source Hardware](#Open-Source-Hardware) Resources centred around designing, developing, and utilising open-source hardware projects
+ - [Getting Started with Open Source](#Getting-Started-with-Open-Source) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies.
+ - [Open Source Software](#Open-Source-Software) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies.
+ - [Open Source Hardware](#Open-Source-Hardware) Resources centred around designing, developing, and utilising open-source hardware projects.
  - [Open Source Practices](#Open-Source-Practices) Resources that delve into the best practices, methodologies, and workflows for open-source development.
  - [InnerSource](#InnerSource) Resources dedicated to InnerSource practices, which involve applying open-source principles within an organisation's internal projects
- - [Non-EngineeringSkills](#Non-Engineering-Skills) Licensing and compliance in open-source projects. Understanding open-source business models and intellectual property (IP)   considerations
+ - [Non-EngineeringSkills](#Non-Engineering-Skills) Licensing and compliance in open-source projects. Understanding open-source business models and intellectual property (IP)   considerations.
  - [Collaboration Skills](#CollaborationSkills) Effective communication and teamwork in open-source and InnerSource projects. Collaborative problem-solving and conflict resolution. Utilising collaboration tools and platforms for remote work and distributed teams.
   - [Mentors](#Mentors) People, Mentors & companies supporting Open Source.
 
@@ -31,7 +31,6 @@ The "Learning Resources Project" is structured into the following distinct categ
 - [FreeCodeCamp's Open Source Contribution Guide](https://www.freecodecamp.org/) - A course/tutorial on getting started with contributing to open-source projects specifically for beginners. - The course was exceptionally useful for understanding how to locate beginner-friendly projects, setting up your environment, and making your first pull request. - Recommended by: Michael Meagher
 - ["Producing Open Source Software" by Karl Fogel](https://producingoss.com/) - A book on the technical, social, and managerial aspects of open-source projects. - Reading this was illuminating for understanding the nuances of open-source project management, handling community expectations, and ensuring the sustainability of a project. - Recommended by: Michael Meagher
 - [OSSU (Open Source Society University)](https://ossu.firebaseapp.com/) - A guide to a self-taught education in Computer Science using open-source tools and resources. - This resource provides a complete curriculum using only free courses available online and was beneficial for comprehending the entire scope of CS, including various open-source tools and practices. - Recommended by: Michael Meagher
-
 
 
 ## Open Source Software

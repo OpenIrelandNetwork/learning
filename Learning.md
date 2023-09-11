@@ -13,7 +13,8 @@ This Learning Resources Project repository is maintained by the [Open Ireland Ne
 
 
 
-## Learning Resources
+## Learning Resources Project Categories
+The "Learning Resources Project" is structured into the following distinct categories, to make it an intuitive user experience for easy navigation and search. This design aids both newcomers to open source and experienced individuals in locating and contributing content and resources.
 
  - [Getting Started with Open Source](#Getting Started with Open Source) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies
  - [Open Source Software](#Open-Source-Software) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies

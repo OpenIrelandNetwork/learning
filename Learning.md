@@ -9,7 +9,7 @@ This project aims to compile a comprehensive collection of learning materials ce
 
 
 <!--lint ignore double-link-->
-This ![Awesome](https://awesome.re/badge-flat2.svg) Learning Resources Project repository is maintained by the [Open Ireland Network Community](https://openirelandnetwork.com/).
+This Learning Resources Project repository is maintained by the [Open Ireland Network Community](https://openirelandnetwork.com/).
 
 
 

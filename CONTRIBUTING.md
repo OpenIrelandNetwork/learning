@@ -10,33 +10,10 @@ For contributing, [open an issue](https://github.com/Open-Ireland-Network/Learni
 ## Guidelines
 
 - Add one link per Pull Request.
-- Add the link with the followining format as _below_  
-
-### _Table of Contents_
-- [Resource (#resource)
-- [Contribute](#how-to-contribute)
-
----
-
-## _Resource_ 
-### _[Title of Resource](https://link-to-resource.com)_
-#### _Description_
-_This is a book/tutorial/course about..._
-
-#### _Context_
-_This resource was incredibly helpful for understanding X, Y, and Z This resource was excellent for learning A, B, and C._
-
-#### _Contributor_
-- _Recommended by: [Jane Doe](https://github.com/janedoe)_
-
----
-
-## How to Contribute
-1. Fork this repository
-2. Add your recommended resources following the above format
-3. Create a pull request
+- Add the link: `- [RESOURCE](LINK) - DESCRIPTION - CONTEXT - CONTRIBUTOR.`
   - End descriptions with a full stop.
-  - Descriptions are optional but keep them concise if you add any.
+- Use the following format for descriptions.
+- **Description** _This is a book/tutorial/course about..._ _**Context**_ _This resource was incredibly helpful for understanding X, Y, and Z _ _**Contributor**_ _Recommended by: [Jane Doe](https://github.com/janedoe)_ 
 - Add a section if needed.
   - Add the section description.
   - Add the section title to Table of Contents.

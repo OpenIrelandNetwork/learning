@@ -63,9 +63,9 @@ Thank you for your contributions.
 
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 All written materials are licensed under
 CC0 4.0 Universal [Creative Commons](LICENSE) 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## The Learning Resources Project for open source and InnerSource
 This project aims to compile a comprehensive collection of learning materials centered around open source and InnerSource, specifically tailored for Irish IT professionals and developers. We envision this collection as a dynamic resource, welcoming and encouraging everyone to add and share links and information. Our ultimate goal is to foster continuous learning and skill enhancement within the Irish community

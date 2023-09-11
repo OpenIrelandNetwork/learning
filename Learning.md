@@ -1,5 +1,5 @@
 <!--lint disable awesome-git-repo-age-->
-# Open Ireland Network ![Awesome](https://awesome.re/badge-flat2.svg) <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-OpenIrelandNetwork-Green">
+# Open Ireland Network <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-OpenIrelandNetwork-Green">
 
 
 ## About the Learning Resources Project

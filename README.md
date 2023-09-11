@@ -64,8 +64,9 @@ Thank you for your contributions.
 ## License
 
 All written materials are licensed under
-CC0 1.0 Universal [Creative Commons](LICENSE)
+CC0 4.0 Universal [Creative Commons](LICENSE)
 
-## Awesome list of learning materials centered around open source and InnerSource
+## The Learning Resources Project for open source and InnerSource
+This project aims to compile a comprehensive collection of learning materials centered around open source and InnerSource, specifically tailored for Irish IT professionals and developers. We envision this collection as a dynamic resource, welcoming and encouraging everyone to add and share links and information. Our ultimate goal is to foster continuous learning and skill enhancement within the Irish community
 [Open Ireland Learning Resources curated List](Learning.md)
 

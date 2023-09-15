@@ -49,7 +49,7 @@ Resources centred around designing, developing, and utilising open-source hardwa
 
 - [OpenHW Group](https://www.openhwgroup.org/) - OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software.
 - [RISC-V](https://riscv.org) - RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration.
-- [Title](https://Link) - Discription.
+- [Title](https://Link) - Description.
 
 ## Open Source Practices
 Resources that delve into the best practices, methodologies, and workflows for open-source development.
@@ -58,26 +58,30 @@ Resources that delve into the best practices, methodologies, and workflows for o
 - [Eclipse Foundation Project Handbook](https://www.eclipse.org/projects/handbook/) -  Information that you need to create a new Eclipse open source project or become a committer on an existing one.
 - [Open Source Program Office Alliance](https://ospo-alliance.org/resources/) -  Resources and supporting material to set up an Open Source Program Office by the OSPO Alliance.
 - [The Good Governance Initiative](https://ospo-alliance.org/ggi/) - How to setup and implement corporate-wide open source policies,.
-- [Title](https://Link) - Discription.
+- [Title](https://Link) - Description.
 
 
 ## InnerSource
 Resources dedicated to InnerSource practices, which involve applying open-source principles within an organisation's internal projects
 
-- [Awesome InnerSource](https://github.com/InnerSourceCommons/awesome-innersource) - A curated list by the Innersource commons of InnerSource resources (books, articles, blogs, projects and more).
-- [Title](https://Link) - Discription.
+- [InnerSource Commons Website](https://innersourcecommons.org/) - Home to the world's largest community of InnerSource practitioners. Books, articles, videos, patterns and more.
+- [InnerSource Commons Learning Path](https://innersourcecommons.org/learn/learning-path/) - Videos and articles covering InnerSource principles and definitions. Has been translated into multiple languages.
+- [InnerSource Commons Patterns](https://innersourcecommons.org/learn/patterns/) - Where InnerSource Commons share practices (with feedback about how they work in context), experiments and challenges.
+- [InnerSource Commons YouTube](https://www.youtube.com/@InnerSourceCommons) - InnerSource Commons YouTube channel - where you will find recordings of dozens of community calls and summit presentations. 
+- [Awesome InnerSource](https://github.com/finos/InnerSource/blob/master/docs/resources.md) - A curated list by members of the FINOS InnerSource Special Interest Group (books, articles, blogs, projects and more). Recommended by: Clare Dillon
+
 
 ## Non-EngineeringSkills
 Licensing and compliance in open-source projects. Understanding open-source business models and intellectual property (IP) considerations
 
-- [Title](https://Link) - Discription.
-- [Title](https://Link) - Discription.
+- [Title](https://Link) - Description.
+- [Title](https://Link) - Description.
 
 ## Collaboration Skills
 Effective communication and teamwork in open-source and InnerSource projects. Collaborative problem-solving and conflict resolution. Utilising collaboration tools and platforms for remote work and distributed teams.
 
-- [Title](https://Link) - Discription.
-- [Title](https://Link) - Discription.
+- [Understanding Conflict](https://youtu.be/xUHnmIv0JYE?feature=shared) - A presentation on understanding conflict by Ciara Flanagan, Conflict Coach. This was given  at an InnerSource Commons Community Call, and covers common scenarios referenced in InnerSource and open source collaborations. - Recommended by: Clare Dillon
+- [Title](https://Link) - Description.
 
 
 ## Mentors

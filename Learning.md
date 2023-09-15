@@ -21,6 +21,7 @@ The "Learning Resources Project" is structured into the following distinct categ
  - [Open Source Hardware](#Open-Source-Hardware) Resources centred around designing, developing, and utilising open-source hardware projects.
  - [Open Source Practices](#Open-Source-Practices) Resources that delve into the best practices, methodologies, and workflows for open-source development.
  - [InnerSource](#InnerSource) Resources dedicated to InnerSource practices, which involve applying open-source principles within an organisation's internal projects
+ - [Examples of Corporate Open Source Initiatives](#Corporate-Open-Source-Initiatives)
  - [Non-EngineeringSkills](#Non-Engineering-Skills) Licensing and compliance in open-source projects. Understanding open-source business models and intellectual property (IP)   considerations.
  - [Collaboration Skills](#CollaborationSkills) Effective communication and teamwork in open-source and InnerSource projects. Collaborative problem-solving and conflict resolution. Utilising collaboration tools and platforms for remote work and distributed teams.
   - [Mentors](#Mentors) People, Mentors & companies supporting Open Source.
@@ -36,13 +37,9 @@ The "Learning Resources Project" is structured into the following distinct categ
 ## Open Source Software
 Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies
 
+- [The Open Source Way](https://www.theopensourceway.org/) - A guidebook for open source community management best practices, written by practitioners of all levels. Recommended by: Clare Dillon
 - [The Linux Foundation](https://training.linuxfoundation.org/full-catalog/) - The Linux Foundation provides a neutral, trusted hub for developers and organizations to code, manage, and scale open technology projects and ecosystems.
 - [Platforms, Programming Languages, Books, Databases, Networks and more](https://github.com/sindresorhus/awesome) - Sindre Sorhus full list of Platforms, Programming Languages, Books, Databases, Networks, Media, CMS and Open University Programs.
-- [Micosoft's Open Source Initiative ](https://opensource.microsoft.com/) - Micosoft's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
-- [Huawei's Open Source Initiative](https://www.huawei.com/en/open-source) - Huawei's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
-- [RedHat's Open Source Initiative](https://www.redhat.com/en/topics/open-source/what-is-open-source) - RedHat's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
-- [Google's Open Source](https://opensource.google/) - Google's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
-- [VMware's Open Source](https://www.vmware.com/opensource.html) - VMware's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
 
 ## Open Source Hardware
 Resources centred around designing, developing, and utilising open-source hardware projects
@@ -66,6 +63,15 @@ Resources dedicated to InnerSource practices, which involve applying open-source
 
 - [Awesome InnerSource](https://github.com/InnerSourceCommons/awesome-innersource) - A curated list by the Innersource commons of InnerSource resources (books, articles, blogs, projects and more).
 - [Title](https://Link) - Discription.
+
+## Corporate Open Source Initiatives
+
+- [Google's Open Source](https://opensource.google/) - Google's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
+- [Huawei's Open Source Initiative](https://www.huawei.com/en/open-source) - Huawei's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
+- [IBM's Open Source Initiative](https://www.ibm.com/opensource/) - IBM's Open Source Initiative with details of their projects, how to get involved and resources on building an open culture.
+- [Micosoft's Open Source Initiative ](https://opensource.microsoft.com/) - Micosoft's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
+- [RedHat's Open Source Initiative](https://www.redhat.com/en/topics/open-source/what-is-open-source) - RedHat's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
+- [VMware's Open Source](https://www.vmware.com/opensource.html) - VMware's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
 
 ## Non-EngineeringSkills
 Licensing and compliance in open-source projects. Understanding open-source business models and intellectual property (IP) considerations

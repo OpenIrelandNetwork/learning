@@ -17,8 +17,10 @@ This Learning Resources Project repository is maintained by the [Open Ireland Ne
 The "Learning Resources Project" is structured into the following distinct categories, to make it an intuitive user experience for easy navigation and search. This design aids both newcomers to open source and experienced individuals in locating and contributing content and resources.
 
  - [Getting Started with Open Source](#Getting-Started-with-Open-Source) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies.
+ - [Open Source Foundations (A-Z)](#open-source-foundations-a-z) A list of Foundations committed to the growth and development of open source models globally.
  - [Open Source Software](#Open-Source-Software) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies.
  - [Open Source Hardware](#Open-Source-Hardware) Resources centred around designing, developing, and utilising open-source hardware projects.
+ - [Open Source Programme Office (OSPO)](#open-source-programme-office-ospo) Open Source Programme Office (OSPO) Are organisations setup to manage their relationship with the open source ecosystems they depend on.
  - [Open Source Practices](#Open-Source-Practices) Resources that delve into the best practices, methodologies, and workflows for open-source development.
  - [InnerSource](#InnerSource) Resources dedicated to InnerSource practices, which involve applying open-source principles within an organisation's internal projects
  - [Examples of Corporate Open Source Initiatives](#Corporate-Open-Source-Initiatives)
@@ -26,17 +28,24 @@ The "Learning Resources Project" is structured into the following distinct categ
  - [Collaboration Skills](#CollaborationSkills) Effective communication and teamwork in open-source and InnerSource projects. Collaborative problem-solving and conflict resolution. Utilising collaboration tools and platforms for remote work and distributed teams.
   - [Mentors](#Mentors) People, Mentors & companies supporting Open Source.
 
-## Getting Started with Open Source
-- [GitHub's Guide to Open Source](https://guides.github.com/activities/open-source/) - A comprehensive guide provided by GitHub about beginning with open-source projects. - _This resource was incredibly helpful for understanding the basics of using Git, the etiquette of contributing to other people's projects, and the steps for initiating your own open-source projects._ - Recommended by: Michael Meagher
-- [Open Source Guide](https://opensource.guide/) - A detailed resource on how open source works, why to get involved, and steps to starting your own project. - _This guide was instrumental in understanding the philosophy behind open-source, the dynamics of maintaining a project, and how to attract contributors._ - Recommended by: Michael Meagher
+## Getting Started with Open Source 
+- [Open Source Guide](https://opensource.guide/) - A detailed resource on how open source works, why to get involved, and steps to starting your own project. Note that Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products- _This guide was instrumental in understanding the philosophy behind open-source, the dynamics of maintaining a project, and how to attract contributors._ - Recommended by: Michael Meagher
 - [FreeCodeCamp's Open Source Contribution Guide](https://www.freecodecamp.org/) - A course/tutorial on getting started with contributing to open-source projects specifically for beginners. - _The course was exceptionally useful for understanding how to locate beginner-friendly projects, setting up your environment, and making your first pull request._ - Recommended by: Michael Meagher
 - ["Producing Open Source Software" by Karl Fogel](https://producingoss.com/) - A book on the technical, social, and managerial aspects of open-source projects. - _Reading this was insightful to understanding the nuances of open-source project management, handling community expectations, and ensuring the sustainability of a project._ - Recommended by: Michael Meagher
 - [OSSU (Open Source Society University)](https://ossu.firebaseapp.com/) - A guide to a self-taught education in Computer Science using open-source tools and resources. - _This resource provides a complete curriculum using only free courses available online and was beneficial for comprehending the entire scope of CS, including various open-source tools and practices._ - Recommended by: Michael Meagher
 
 
+## Open Source Foundations (A-Z)
+- [Apache Software Foundation](https://www.apache.org/) - The Apache Software Foundation (ASF) exists to provide software for the public good. Recommended by: Michael Meagher
+- [Eclipse Foundation](https://www.eclipse.org/) - The Eclipse Foundation is a European-based international not-for-profit association supported by over 355 member organizations who value the Foundation’s unique Working Group governance model, open innovation processes, and community-building events. - _The Foundation is home to the Eclipse IDE, Jakarta EE, and over 415 open source projects, including runtimes, tools, and frameworks for a wide range of technology domains such as the Internet of Things, automotive, geospatial, systems engineering, and many others._ - Recommended by: Michael Meagher
+- [Linux Foundation](https://www.linuxfoundation.org/) - The Linux Foundation provides a neutral, trusted home for developers to collaborate on open software projects. Host & Find Projects, Find blogs, news and webinars along with Open Source Guides and publications. - Recommended by: Michael Meagher
+- [Open Source Initiative (OSI)](https://www.opensocietyfoundations.org/) - The Open Source Initiative (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community. - Recommended by: Michael Meagher
+
+
 ## Open Source Software
 Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies
-
+- [GitHub's Guide to Open Source](https://guides.github.com/activities/open-source/) - A comprehensive guide provided by GitHub about beginning with open-source projects. - _This resource was incredibly helpful for understanding the basics of using Git, the etiquette of contributing to other people's projects, and the steps for initiating your own open-source projects._ - Recommended by: Michael Meagher
+[GitLab Solutions for Open Source Projects](https://about.gitlab.com/solutions/open-source/) - GitLab for Open Source Program supports GitLab's mission to make the world a place where anyone can contribute open source. _Gitlab provides free full-feature access to qualifying projects._- Recommended by: Michael Meagher
 - [The Open Source Way](https://www.theopensourceway.org/) - A guidebook for open source community management best practices, written by practitioners of all levels. Recommended by: Clare Dillon
 - [The Linux Foundation](https://training.linuxfoundation.org/full-catalog/) - The Linux Foundation provides a neutral, trusted hub for developers and organizations to code, manage, and scale open technology projects and ecosystems.
 - [Platforms, Programming Languages, Books, Databases, Networks and more](https://github.com/sindresorhus/awesome) - Sindre Sorhus full list of Platforms, Programming Languages, Books, Databases, Networks, Media, CMS and Open University Programs.
@@ -47,6 +56,13 @@ Resources centred around designing, developing, and utilising open-source hardwa
 - [OpenHW Group](https://www.openhwgroup.org/) - OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software.
 - [RISC-V](https://riscv.org) - RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration.
 - [Title](https://Link) - Description.
+
+## Open Source Programme Office (OSPO)
+Open Source Programme Office (OSPO) Are organisations setup to manage their relationship with the open source ecosystems they depend on.
+
+[OSPO Alliance] (https://ospo-alliance.org) The OSPO Alliance was launched in June 2021 by European non profit organisations — OW2, Eclipse Foundation, OpenForum Europe, and Foundation for Public Code — and concerned individuals to promote an approach to excellence in open source software management. Together we created the OSPO Alliance — an open experience-sharing platform to facilitate discovery of tools and best practices and help define the state of the art in this domain. - Recommended by: Clare Dillon
+[OSPO++](https://www.ospoplusplus.org) OSPO++ is a network and a community of collaborative open source program offices in the wider public sector sphere: governments, NGOs and civic institutions, alongside academic institutions and the corporations that work with them. - Recommended by: Clare Dillon
+[ToDo Group](https://www.www.todogroup.org)  TODO is an open community of practitioners who aim to create and share knowledge, and collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices or similar Open Source initiatives. - Recommended by: Clare Dillon
 
 ## Open Source Practices
 Resources that delve into the best practices, methodologies, and workflows for open-source development.

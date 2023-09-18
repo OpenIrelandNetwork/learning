@@ -7,7 +7,7 @@ Open Ireland Network is a network for organizations and individuals on the islan
 ## About the Learning Resources Project - for open source and InnerSource
 
 
-This project aims to compile a comprehensive collection of learning materials centered around open source and InnerSource, specifically tailored for Irish IT professionals and developers. We envision this collection as a dynamic resource, welcoming and encouraging everyone to add and share links and information. Our ultimate goal is to foster continuous learning and skill enhancement within the Irish community
+This project is dedicated to assembling a broad collection of learning materials focused on the principles and practices of open source and InnerSource, specially crafted for Irish IT professionals and developers. It's important to note that our initiative is not designed to provide training on any particular open source projects. Instead, our aim is to equip individuals with the foundational knowledge they need to understand, navigate, and immerse themselves in the open source world, ultimately guiding them on how to make meaningful contributions and get involved. We see this collection as a living resource and invite everyone to contribute and share holistic learning resources. Together, we strive to catalyze continuous learning and capability building within the Irish community.
 
 [Open Ireland Learning Resources curated List](Learning.md)
 

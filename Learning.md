@@ -44,8 +44,9 @@ The "Learning Resources Project" is structured into the following distinct categ
 
 ## Open Source Software
 Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies
+
 - [GitHub's Guide to Open Source](https://guides.github.com/activities/open-source/) - A comprehensive guide provided by GitHub about beginning with open-source projects. - _This resource was incredibly helpful for understanding the basics of using Git, the etiquette of contributing to other people's projects, and the steps for initiating your own open-source projects._ - Recommended by: Michael Meagher
-[GitLab Solutions for Open Source Projects](https://about.gitlab.com/solutions/open-source/) - GitLab for Open Source Program supports GitLab's mission to make the world a place where anyone can contribute open source. _Gitlab provides free full-feature access to qualifying projects._- Recommended by: Michael Meagher
+- [GitLab Solutions for Open Source Projects](https://about.gitlab.com/solutions/open-source/) - GitLab for Open Source Program supports GitLab's mission to make the world a place where anyone can contribute open source. _Gitlab provides free full-feature access to qualifying projects._- Recommended by: Michael Meagher
 - [The Open Source Way](https://www.theopensourceway.org/) - A guidebook for open source community management best practices, written by practitioners of all levels. Recommended by: Clare Dillon
 - [The Linux Foundation](https://training.linuxfoundation.org/full-catalog/) - The Linux Foundation provides a neutral, trusted hub for developers and organizations to code, manage, and scale open technology projects and ecosystems.
 - [Platforms, Programming Languages, Books, Databases, Networks and more](https://github.com/sindresorhus/awesome) - Sindre Sorhus full list of Platforms, Programming Languages, Books, Databases, Networks, Media, CMS and Open University Programs.
@@ -96,14 +97,14 @@ Resources dedicated to InnerSource practices, which involve applying open-source
 ## Non-EngineeringSkills
 Licensing and compliance in open-source projects. Understanding open-source business models and intellectual property (IP) considerations
 
-- [Title](https://Link) - Description.
-- [Title](https://Link) - Description.
+- [Content coming](https://Link) - Description.
+
 
 ## Collaboration Skills
 Effective communication and teamwork in open-source and InnerSource projects. Collaborative problem-solving and conflict resolution. Utilising collaboration tools and platforms for remote work and distributed teams.
 
 - [Understanding Conflict](https://youtu.be/xUHnmIv0JYE?feature=shared) - A presentation on understanding conflict by Ciara Flanagan, Conflict Coach. This was given  at an InnerSource Commons Community Call, and covers common scenarios referenced in InnerSource and open source collaborations. - Recommended by: Clare Dillon
-- [Title](https://Link) - Description.
+
 
 
 ## Mentors

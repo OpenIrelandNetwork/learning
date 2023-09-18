@@ -84,7 +84,7 @@ Resources dedicated to InnerSource practices, which involve applying open-source
 - [Awesome InnerSource](https://github.com/finos/InnerSource/blob/master/docs/resources.md) - A curated list by members of the FINOS InnerSource Special Interest Group (books, articles, blogs, projects and more). Recommended by: Clare Dillon
 
 
-## Corporate Open Source Initiatives
+## Corporate Open Source Initiatives (A-Z)
 
 - [Google's Open Source](https://opensource.google/) - Google's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.
 - [Huawei's Open Source Initiative](https://www.huawei.com/en/open-source) - Huawei's Open Source Initiative outlines open source projects, resources and how it enables contributors, mentorship, and supporting documentation.

@@ -42,13 +42,12 @@ The "Learning Resources Project" is structured into the following distinct categ
 - [Open Source Initiative (OSI)](https://www.opensocietyfoundations.org/) - The Open Source Initiative (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community. - Recommended by: Michael Meagher
 
 
-## Open Source Software
+## Open Source Software (A-Z)
 Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies
 
 - [GitHub's Guide to Open Source](https://guides.github.com/activities/open-source/) - A comprehensive guide provided by GitHub about beginning with open-source projects. - _This resource was incredibly helpful for understanding the basics of using Git, the etiquette of contributing to other people's projects, and the steps for initiating your own open-source projects._ - Recommended by: Michael Meagher
 - [GitLab Solutions for Open Source Projects](https://about.gitlab.com/solutions/open-source/) - GitLab for Open Source Program supports GitLab's mission to make the world a place where anyone can contribute open source. _Gitlab provides free full-feature access to qualifying projects._- Recommended by: Michael Meagher
 - [The Open Source Way](https://www.theopensourceway.org/) - A guidebook for open source community management best practices, written by practitioners of all levels. Recommended by: Clare Dillon
-- [The Linux Foundation](https://training.linuxfoundation.org/full-catalog/) - The Linux Foundation provides a neutral, trusted hub for developers and organizations to code, manage, and scale open technology projects and ecosystems.
 - [Platforms, Programming Languages, Books, Databases, Networks and more](https://github.com/sindresorhus/awesome) - Sindre Sorhus full list of Platforms, Programming Languages, Books, Databases, Networks, Media, CMS and Open University Programs.
 
 ## Open Source Hardware

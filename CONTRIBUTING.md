@@ -5,7 +5,7 @@ This repository serves as a comprehensive archive of essential learning material
 Your contributions are warmly welcome, please get involved and add your own.
 
 Anyone can contribute to this list, just make sure you follow the below [guidelines](#guidelines).\
-For contributing, [open an issue](https://github.com/Open-Ireland-Network/Learning1/issues) and/or [create a pull request](https://github.com/Open-Ireland-Network/Learning1/pulls)
+For contributing, [open an issue](https://github.com/OpenIrelandNetwork/learning/issues) and/or [create a pull request](https://github.com/OpenIrelandNetwork/learning/pulls)
 
 ## Guidelines
 

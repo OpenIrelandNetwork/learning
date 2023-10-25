@@ -98,7 +98,9 @@ Resources dedicated to InnerSource practices, which involve applying open-source
 ## Non-EngineeringSkills
 Licensing and compliance in open-source projects. Understanding open-source business models and intellectual property (IP) considerations
 
-- [Content coming](https://Link) - Description.
+- [A guide to common open source licenses](https://drive.google.com/file/d/0B4UVTqmHDXguTW1OT0t3MDRBVlE/view?resourcekey=0-tWA09pmI9-X3edOdyrVyyQ) - _This guide developed by the University of Minnesota clearly outlines what you can use the license for, what you can't use it for and what you must include._ Recommended by: Michael Meagher
+
+- [When to consider using Open Source Licence](https://drive.google.com/file/d/0B4UVTqmHDXguZGoxYUNrams1UWM/view?resourcekey=0-vDgDhZO2JQGsiX7XBo-uiw) _This resource is a good decision support model developed by the University of Minnesota._ Recommended by: Michael Meagher
 
 
 ## Collaboration Skills

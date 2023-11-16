@@ -16,19 +16,19 @@ This Learning Resources Project repository is maintained by the [Open Ireland Ne
 ## Learning Resources Project Categories
 The "Learning Resources Project" is structured into the following distinct categories, to make it an intuitive user experience for easy navigation and search. This design aids both newcomers to open source and experienced individuals in locating and contributing content and resources.
 
- - [Getting Started with Open Source](#Getting-Started-with-Open-Source) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies.
- - [Open Source Foundations (A-Z)](#open-source-foundations-a-z) A list of Foundations committed to the growth and development of open source models globally.
- - [Open Source Software](#Open-Source-Software) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies.
- - [Open Source Hardware](#Open-Source-Hardware) Resources centred around designing, developing, and utilising open-source hardware projects.
- - [Open Source Programme Office (OSPO)](#open-source-programme-office-ospo) Open Source Programme Office (OSPO) Are organisations setup to manage their relationship with the open source ecosystems they depend on.
- - [Open Source Practices](#Open-Source-Practices) Resources that delve into the best practices, methodologies, and workflows for open-source development.
- - [InnerSource](#InnerSource) Resources dedicated to InnerSource practices, which involve applying open-source principles within an organisation's internal projects
- - [Examples of Corporate Open Source Initiatives](#Corporate-Open-Source-Initiatives)
- - [Non-EngineeringSkills](#Non-Engineering-Skills) Licensing and compliance in open-source projects. Understanding open-source business models and intellectual property (IP)   considerations.
- - [Collaboration Skills](#CollaborationSkills) Effective communication and teamwork in open-source and InnerSource projects. Collaborative problem-solving and conflict resolution. Utilising collaboration tools and platforms for remote work and distributed teams.
-  - [Mentors](#Mentors) People, Mentors & companies supporting Open Source.
+- [Getting Started with Open Source](#Getting-Started-with-Open-Source) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies.
+- [Open Source Foundations (A-Z)](#open-source-foundations-a-z) A list of Foundations committed to the growth and development of open source models globally.
+- [Open Source Software](#Open-Source-Software) Resources focusing on developing, deploying, integrating, and applying open-source software tools and technologies.
+- [Open Source Hardware](#Open-Source-Hardware) Resources centred around designing, developing, and utilising open-source hardware projects.
+- [Open Source Programme Office (OSPO)](#open-source-programme-office-ospo) Open Source Programme Office (OSPO) Are organisations setup to manage their relationship with the open source ecosystems they depend on.
+- [Open Source Practices](#Open-Source-Practices) Resources that delve into the best practices, methodologies, and workflows for open-source development.
+- [InnerSource](#InnerSource) Resources dedicated to InnerSource practices, which involve applying open-source principles within an organisation's internal projects
+- [Examples of Corporate Open Source Initiatives](#Corporate-Open-Source-Initiatives)
+- [Non-EngineeringSkills](#Non-Engineering-Skills) Licensing and compliance in open-source projects. Understanding open-source business models and intellectual property (IP)   considerations.
+- [Collaboration Skills](#CollaborationSkills) Effective communication and teamwork in open-source and InnerSource projects. Collaborative problem-solving and conflict resolution. Utilising collaboration tools and platforms for remote work and distributed teams.
+- [Mentors](#Mentors) People, Mentors & companies supporting Open Source.
 
-## Getting Started with Open Source 
+## Getting Started with Open Source
 - [Open Source for newcomers](https://about.publiccode.net/activities/trainings/open-source-for-newcomers.html) - A simple starting point for anyone at any level to understand how open source works and how to get started - _This resource has some simple videos and I love What is Open Source explained in LEGO._ - Recommended by: Michael Meagher
 - [The Standard for Public Code](https://citybycity.academy/course/standards-for-smart-cities) - An open training resource on getting started on open source projects for Public Code projects. - _This has everything to get started in Public Code projects and walks a new user in an easy-to-find approach._ - Recommended by: Michael Meagher
 - [Open Source Guide](https://opensource.guide/) - A detailed resource on how open source works, why to get involved, and steps to starting your own project. Note that Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products- _This guide was instrumental in understanding the philosophy behind open-source, the dynamics of maintaining a project, and how to attract contributors._ - Recommended by: Michael Meagher
@@ -52,6 +52,11 @@ Resources focusing on developing, deploying, integrating, and applying open-sour
 - [GitLab Solutions for Open Source Projects](https://about.gitlab.com/solutions/open-source/) - GitLab for Open Source Program supports GitLab's mission to make the world a place where anyone can contribute open source. _Gitlab provides free full-feature access to qualifying projects._- Recommended by: Michael Meagher
 - [The Open Source Way](https://www.theopensourceway.org/) - A guidebook for open source community management best practices, written by practitioners of all levels. Recommended by: Clare Dillon
 - [Platforms, Programming Languages, Books, Databases, Networks and more](https://github.com/sindresorhus/awesome) - Sindre Sorhus full list of Platforms, Programming Languages, Books, Databases, Networks, Media, CMS and Open University Programs.
+- [Awesome Open Source YouTube Channel](https://www.youtube.com/@AwesomeOpenSource) - Open Source software reviews and deep dives.
+- [Open Source alternatives to SaaS products](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Open Source projects which can be used as a (partial) replacement for commercial Software-as-a-Service products.
+- [Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) - Long list of [Slack](https://slack.com) tech communities.
+- [Tech Community Discords](https://github.com/mhxion/awesome-discord-communities) - Long list of [Discord](https://discord.com/) tech communities.
+- [Awesome list of lists](https://github.com/sindresorhus/awesome) - Long list of various GitHub Awesome Lists, including Programming Languages, Front-End Development, Back-End Development, Computer Science, Development Environment, Hardware and so on. You can discover more by following the [`awesome` topic](https://github.com/topics/awesome) on GitHub.
 
 ## Open Source Hardware
 Resources centred around designing, developing, and utilising open-source hardware projects
@@ -73,7 +78,6 @@ Resources that delve into the best practices, methodologies, and workflows for o
 - [Eclipse Foundation Project Handbook](https://www.eclipse.org/projects/handbook/) -  Information that you need to create a new Eclipse open source project or become a committer on an existing one.
 - [Open Source Program Office Alliance](https://ospo-alliance.org/resources/) -  Resources and supporting material to set up an Open Source Program Office by the OSPO Alliance.
 - [The Good Governance Initiative](https://ospo-alliance.org/ggi/) - How to setup and implement corporate-wide open source policies,.
-- [Title](https://Link) - Description.
 
 
 ## InnerSource
@@ -82,7 +86,7 @@ Resources dedicated to InnerSource practices, which involve applying open-source
 - [InnerSource Commons Website](https://innersourcecommons.org/) - Home to the world's largest community of InnerSource practitioners. Books, articles, videos, patterns and more.
 - [InnerSource Commons Learning Path](https://innersourcecommons.org/learn/learning-path/) - Videos and articles covering InnerSource principles and definitions. Has been translated into multiple languages.
 - [InnerSource Commons Patterns](https://innersourcecommons.org/learn/patterns/) - Where InnerSource Commons share practices (with feedback about how they work in context), experiments and challenges.
-- [InnerSource Commons YouTube](https://www.youtube.com/@InnerSourceCommons) - InnerSource Commons YouTube channel - where you will find recordings of dozens of community calls and summit presentations. 
+- [InnerSource Commons YouTube](https://www.youtube.com/@InnerSourceCommons) - InnerSource Commons YouTube channel - where you will find recordings of dozens of community calls and summit presentations.
 - [Awesome InnerSource](https://github.com/finos/InnerSource/blob/master/docs/resources.md) - A curated list by members of the FINOS InnerSource Special Interest Group (books, articles, blogs, projects and more). Recommended by: Clare Dillon
 
 

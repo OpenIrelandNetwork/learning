@@ -58,7 +58,6 @@ Resources centred around designing, developing, and utilising open-source hardwa
 
 - [OpenHW Group](https://www.openhwgroup.org/) - OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software.
 - [RISC-V](https://riscv.org) - RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration.
-- [Title](https://Link) - Description.
 
 ## Open Source Programme Office (OSPO)
 Open Source Programme Office (OSPO) Are organisations setup to manage their relationship with the open source ecosystems they depend on.

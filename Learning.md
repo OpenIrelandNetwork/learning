@@ -52,11 +52,11 @@ Resources focusing on developing, deploying, integrating, and applying open-sour
 - [GitLab Solutions for Open Source Projects](https://about.gitlab.com/solutions/open-source/) - GitLab for Open Source Program supports GitLab's mission to make the world a place where anyone can contribute open source. _Gitlab provides free full-feature access to qualifying projects._- Recommended by: Michael Meagher
 - [The Open Source Way](https://www.theopensourceway.org/) - A guidebook for open source community management best practices, written by practitioners of all levels. Recommended by: Clare Dillon
 - [Platforms, Programming Languages, Books, Databases, Networks and more](https://github.com/sindresorhus/awesome) - Sindre Sorhus full list of Platforms, Programming Languages, Books, Databases, Networks, Media, CMS and Open University Programs.
-- [Awesome Open Source YouTube Channel](https://www.youtube.com/@AwesomeOpenSource) - Open Source software reviews and deep dives.
-- [Open Source alternatives to SaaS products](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Open Source projects which can be used as a (partial) replacement for commercial Software-as-a-Service products.
-- [Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) - Long list of [Slack](https://slack.com) tech communities.
-- [Tech Community Discords](https://github.com/mhxion/awesome-discord-communities) - Long list of [Discord](https://discord.com/) tech communities.
-- [Awesome list of lists](https://github.com/sindresorhus/awesome) - Long list of various GitHub Awesome Lists, including Programming Languages, Front-End Development, Back-End Development, Computer Science, Development Environment, Hardware and so on. You can discover more by following the [`awesome` topic](https://github.com/topics/awesome) on GitHub.
+- [Awesome Open Source YouTube Channel](https://www.youtube.com/@AwesomeOpenSource) - Open Source software reviews and deep dives. Recommended by [Mihai Todor](https://github.com/mihaitodor).
+- [Open Source alternatives to SaaS products](https://github.com/awesome-selfhosted/awesome-selfhosted) - List of Open Source projects which can be used as a (partial) replacement for commercial Software-as-a-Service products. Recommended by [Mihai Todor](https://github.com/mihaitodor).
+- [Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) - Long list of [Slack](https://slack.com) tech communities. Recommended by [Mihai Todor](https://github.com/mihaitodor).
+- [Tech Community Discords](https://github.com/mhxion/awesome-discord-communities) - Long list of [Discord](https://discord.com/) tech communities. Recommended by [Mihai Todor](https://github.com/mihaitodor).
+- [Awesome list of lists](https://github.com/sindresorhus/awesome) - Long list of various GitHub Awesome Lists, including Programming Languages, Front-End Development, Back-End Development, Computer Science, Development Environment, Hardware and so on. You can discover more by following the [`awesome` topic](https://github.com/topics/awesome) on GitHub. Recommended by [Mihai Todor](https://github.com/mihaitodor).
 
 ## Open Source Hardware
 Resources centred around designing, developing, and utilising open-source hardware projects
